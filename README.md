@@ -1,7 +1,7 @@
 🧬 EletroOncologia
 Tecnologia avançada para o futuro do tratamento do câncer
 
-📌 Sobre a empresa
+📌 Sobre a empresa:
 A EletroOncologia é uma empresa inovadora focada no desenvolvimento de soluções tecnológicas para o tratamento oncológico. Nosso principal objetivo é integrar ciência, tecnologia e saúde para oferecer alternativas mais eficientes, menos invasivas e personalizadas para pacientes com câncer.
 
 💡 Nossa inovação: OncoChip
@@ -9,10 +9,10 @@ O OncoChip é uma tecnologia proprietária desenvolvida pela EletroOncologia, pr
 
 Ele utiliza micro-sensores avançados capazes de interagir com o organismo e potencializar estratégias terapêuticas.
 
-⚙️ Como funciona
+⚙️ Como funciona:
 O OncoChip atua em três pilares principais:
 
-🔬 Monitoramento inteligente
+🔬 Monitoramento inteligente:
 Coleta dados do organismo em tempo real
 Analisa sinais biológicos relevantes para o tratamento
 
