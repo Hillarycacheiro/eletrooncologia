@@ -1,39 +1,70 @@
-# Eletrooncologia — Sistema Frontend
+🧬 EletroOncologia
+Tecnologia avançada para o futuro do tratamento do câncer
+📌 Sobre a empresa
 
-React + Vite + Bootstrap com Dark/Light Mode e tela de login.
+A EletroOncologia é uma empresa inovadora focada no desenvolvimento de soluções tecnológicas para o tratamento oncológico. Nosso principal objetivo é integrar ciência, tecnologia e saúde para oferecer alternativas mais eficientes, menos invasivas e personalizadas para pacientes com câncer.
 
-## 🚀 Instalação
+💡 Nossa inovação: OncoChip
 
-```bash
-npm install
-npm run dev
-# → http://localhost:5173
-```
+O OncoChip é uma tecnologia proprietária desenvolvida pela EletroOncologia, projetada para atuar como um sistema inteligente de apoio ao tratamento oncológico.
 
-## 🔑 Login de teste
+Ele utiliza micro-sensores avançados capazes de interagir com o organismo e potencializar estratégias terapêuticas.
 
-- **E-mail:** admin@eletrooncologia.com
-- **Senha:** onco123
+⚙️ Como funciona
 
-## 🔌 API C# — CORS (Program.cs)
+O OncoChip atua em três pilares principais:
 
-```csharp
-builder.Services.AddCors(options =>
-    options.AddPolicy("Frontend", p =>
-        p.WithOrigins("http://localhost:5173")
-         .AllowAnyHeader().AllowAnyMethod()));
+🔬 Monitoramento inteligente
+Coleta dados do organismo em tempo real
+Analisa sinais biológicos relevantes para o tratamento
 
-app.UseCors("Frontend");
-```
+⚡ Estímulo e intervenção tecnológica
+Utiliza microtecnologia para auxiliar no tratamento
+Atua como suporte às terapias convencionais
 
-## 📁 Estrutura
+🤖 Tecnologia de microdispositivos (conceitual)
+Proposta de uso de nanodispositivos no sistema sanguíneo
+Foco em melhorar a eficiência do tratamento e resposta do organismo
+Tecnologia em estudo e desenvolvimento
 
-```
-src/
-├── components/   Field, Modal, SaveToast, Sidebar, Topbar
-├── pages/        LoginPage, Dashboard, Empresa, Produto, Aplicacao, Cliente, Parceria
-├── services/     api.js (Axios + todos os endpoints)
-├── styles/       global.css (tokens dark + light)
-├── App.jsx       Rotas + auth guard + theme state
-└── main.jsx      Entry point
-```
+🎯 Missão
+Desenvolver tecnologias inovadoras que contribuam para tratamentos oncológicos mais eficazes, acessíveis e humanizados.
+
+👁️ Visão
+
+Ser referência em inovação tecnológica na área da saúde, com foco em soluções para o tratamento do câncer.
+
+🚀 Diferenciais
+Integração entre tecnologia e medicina
+Abordagem minimamente invasiva
+Monitoramento contínuo e inteligente
+Foco na personalização do tratamento
+
+🧠 Tecnologias envolvidas
+Microeletrônica
+Sensores biomédicos
+Inteligência Artificial
+Análise de dados em tempo real
+🏥 Aplicações
+
+O OncoChip pode ser aplicado em:
+
+Hospitais
+Clínicas oncológicas
+Centros de pesquisa
+⚠️ Aviso importante
+
+Este projeto apresenta uma proposta inovadora com base em conceitos emergentes da tecnologia biomédica. Parte das funcionalidades descritas ainda estão em fase de pesquisa e desenvolvimento.
+
+👥 Equipe
+Hillary
+Myrella
+Natallie
+Leonardo
+
+📬 Contato
+Email: contato@eletrooncologia.com
+Site: www.eletrooncologia.com
+
+🌍 Impacto
+A EletroOncologia busca transformar o futuro do tratamento do câncer, tornando-o mais preciso, eficiente e acessível através da tecnologia.
